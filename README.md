@@ -93,7 +93,7 @@ An AI-powered chatbot designed to help beginners learn SQL through interactive q
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salihbagci">
+  <a href="https://www.linkedin.com/in/salih-ba%C4%9Fc%C4%B1-577705270">
     <img src="https://img.shields.io/badge/LinkedIn-Salih%20Bağcı-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/salihbagci">
